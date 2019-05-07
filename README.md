@@ -51,7 +51,7 @@ Your completed application should present the following interfaces and functiona
 
 Your interfaces should respond contextually based upon the Accept header sent by the requesting client, you may default to what ever preset you prefer.
 
-We would like you to send responses in application/xml and application/json, however you may add other supported response types if you would prefer.
+We would like you to send responses in application/json, however you may add other supported response types if you would prefer.
 
 You should unit test your application, and if you feel so inclined we welcome you to write integration and full stack tests, depending on your experience with such technologies.
 
