@@ -176,7 +176,7 @@ return [
         App\Providers\RouteServiceProvider::class,
         Maatwebsite\Excel\ExcelServiceProvider::class,
         App\Providers\NccServiceProvider::class,
-        Jenssegers\Mongodb\MongodbServiceProvider::class
+//        Jenssegers\Mongodb\MongodbServiceProvider::class
     ],
 
     /*
